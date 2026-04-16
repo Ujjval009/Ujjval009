@@ -187,6 +187,9 @@ To build **impactful AI products** that solve real problems — bridging cutting
 
 ## 📬 Connect with Me
 
+<br>
+  <br>
+
 <p align="center">
   <a href="mailto:Ujjvalsharma007@gmail.com">
     <img src="https://img.shields.io/badge/Email-ujjvalsharma007@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -199,6 +202,10 @@ To build **impactful AI products** that solve real problems — bridging cutting
   </a>
 </p>
 
+<br>
+
+ <br>
+ 
 <p align="center">⭐ If you like my work, drop a ⭐ and let's connect!</p>
 
 <br>
